@@ -1,0 +1,6 @@
+export const ADD_Launch = 'ADD_Launch'
+export const UPDATE_Launch = 'UPDATE_Launch'
+export const REMOVE_Launch = 'REMOVE_Launch'
+export const CHANGE_SCREEN = 'CHANGE_SCREEN'
+export const FETCH_LAUNCHES = 'FETCH_LAUNCHES'
+export const FIND_LAUNCH_YEAR = 'FIND_LAUNCH_YEAR'
